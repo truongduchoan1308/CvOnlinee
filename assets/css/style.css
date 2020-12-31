@@ -205,3 +205,14 @@ p {
 	text-transform: uppercase;
 	margin-top: 15px;
 }
+
+.link-conneted {
+	font-size: 16px;
+	font-weight: 300;
+	color: white;
+	text-decoration: none;
+}
+
+.link-conneted:hover{
+	color: rgb(6, 6, 59);
+}
