@@ -216,3 +216,14 @@ p {
 .link-conneted:hover{
 	color: rgb(6, 6, 59);
 }
+
+.link-conneted-right {
+	font-size: 16px;
+	font-weight: 300;
+	color: black;
+	text-decoration: none;
+}
+
+.link-conneted-right:hover {
+	color: #90a4ae;
+}
